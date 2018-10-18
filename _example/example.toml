@@ -1,0 +1,4 @@
+prefix="test_conf"
+[[users]]
+id="wweir"
+password="abc"
